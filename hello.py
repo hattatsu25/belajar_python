@@ -1,0 +1,1 @@
+print("Halo Dimas, setup sukses!")
