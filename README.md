@@ -17,17 +17,3 @@ python hello.py
 ---
 
 ## B) Setelah itu baru bikin file `.gitignore`
-Caranya:
-1) Balik ke halaman repo (Code)
-2) Klik **Add file → Create new file**
-3) Isi filename:  
-.gitignore
-4) Isi file `.gitignore` ini:
-
-```txt
-__pycache__/
-*.pyc
-.venv/
-env/
-.vscode/
-.DS_Store
